@@ -6,6 +6,9 @@
 
 A Discord bot that tracks Epic Seven daily resets, weekly resets, Guild War phases, and custom event pings — all updated live every 5 seconds.
 
+Discord Invite Link:
+https://discord.com/oauth2/authorize?client_id=1490310472220672000&permissions=406679792656&integration_type=0&scope=bot
+
 ---
 
 ## 🆓 Free Features (all servers)
