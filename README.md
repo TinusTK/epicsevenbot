@@ -2,6 +2,8 @@
 
 #  ⏰EpicSeven Clock Bot
 
+![epicsevenbot](https://github.com/user-attachments/assets/8728ed62-2c00-45cd-a17e-6a40c950d1ef)
+
 A Discord bot that tracks Epic Seven daily resets, weekly resets, Guild War phases, and custom event pings — all updated live every 5 seconds.
 
 ---
