@@ -17,9 +17,6 @@ https://discord.com/oauth2/authorize?client_id=1490310472220672000&permissions=4
 - Category channel name updates every 10 minutes with compact reset times
 - All 3 **automatic Guild War role pings** (war start, 12h left, 2h left)
 - Auto-repost if the embed is deleted
-
-## 💎 Premium Features (trial / paid)
-
 - **Countdown Timers** — multiple named countdown timers with expiry pings
 - **Custom Pings** — daily or weekly scheduled role pings with custom messages
 
