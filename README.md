@@ -20,8 +20,6 @@ https://discord.com/oauth2/authorize?client_id=1490310472220672000&permissions=4
 - **Countdown Timers** — multiple named countdown timers with expiry pings
 - **Custom Pings** — daily or weekly scheduled role pings with custom messages
 
-> All new servers receive a **30-day free trial** with full premium access.
-
 ---
 
 ## ⚙️ Getting Started
